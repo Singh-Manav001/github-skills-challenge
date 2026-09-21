@@ -11,6 +11,7 @@ Make sure your work is committed and pushed to your repository before submission
 
 Good luck!
 
+Pull-request test and coverage workflows are configured in `.github/workflows/`.
 
 ---
 
